@@ -1,0 +1,7 @@
+C:\Users\Dominik\source\repos\LINQ\LINQ_TrainingApp\bin\Debug\LINQ_TrainingApp.exe.config
+C:\Users\Dominik\source\repos\LINQ\LINQ_TrainingApp\bin\Debug\LINQ_TrainingApp.exe
+C:\Users\Dominik\source\repos\LINQ\LINQ_TrainingApp\bin\Debug\LINQ_TrainingApp.pdb
+C:\Users\Dominik\source\repos\LINQ\LINQ_TrainingApp\obj\Debug\LINQ_TrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\LINQ\LINQ_TrainingApp\obj\Debug\LINQ_TrainingApp.exe
+C:\Users\Dominik\source\repos\LINQ\LINQ_TrainingApp\obj\Debug\LINQ_TrainingApp.pdb
+C:\Users\Dominik\source\repos\LINQ\LINQ_TrainingApp\obj\Debug\LINQ_TrainingApp.csprojAssemblyReference.cache
